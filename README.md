@@ -31,6 +31,8 @@ Sal Social Network was made to learn more about working with noSql databases, mo
 
   ![sal-social-network](./public/Screen%20Shot%202023-03-16%20at%203.47.20%20PM.png)
 
+  - Here is a link to a demo: - https://github.com/Sal8298/sal-social-network/tree/main/public/Screen Recording 2023-03-17 at 12.39.00 PM.webm
+
   ## Credits
   * https://github.com/Sal8298
 
